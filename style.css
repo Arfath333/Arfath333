@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "New Tegomin", serif;
+}
+
+.joc {
+  background-color: white;
+  padding: 50px;
+  height: 45vh;
+}
+
+.joc h2 {
+  color: rgb(41, 163, 159);
+  margin-bottom: 15px;
+  font-size: 32px;
+}
+.joc h3 {
+  color: rgb(191, 223, 49);
+  margin-bottom: 15px;
+  font-size: 22px;
+}
+
+.joc li {
+  color: darkgray;
+  font-size: 18px;
+  list-style: none;
+  padding: 5px;
+}
+
+.monthly-sub {
+  background-color: rgb(27, 149, 158, 0.904);
+  padding: 50px;
+  width: 50%;
+  height: 55vh;
+  font-size: 20px;
+  float: left;
+}
+.monthly-sub h3 {
+  color: white;
+  margin: 10px;
+}
+.monthly-sub h5 {
+  color: rgb(130, 202, 202);
+  margin: 10px;
+}
+.monthly-sub span {
+  color: white;
+  font-size: 32px;
+}
+.monthly-sub p {
+  color: rgb(188, 226, 226);
+  margin: 10px;
+}
+.monthly-sub button {
+  background-color: rgb(191, 223, 49);
+  color: white;
+  padding: 15px 110px;
+  margin: 10px;
+  border: 10px;
+  border-radius: 5px;
+}
+
+.why-us {
+  background-color: rgb(54, 187, 187);
+  color: rgb(202, 228, 228);
+  padding: 50px;
+  height: 55vh;
+  width: 50%;
+  font-size: 22px;
+  float: left;
+}
+
+.why-us li {
+  list-style: none;
+  font-size: 18px;
+}
